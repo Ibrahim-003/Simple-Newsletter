@@ -1,0 +1,101 @@
+:root {
+    /** COLOR PALLETE **/
+    --slate-gray: #6C727F;
+    --light-gray: #E5E7EB;
+    --soft-white: #F9FAFB;
+    --pure-white: #FFFFFF;
+    --black: #000000;
+    --royal-blue: #3662E3;
+
+    /** FONT SIZES **/
+    --font-size-sm: 14px;
+    --font-size-md: 16px;
+    --font-size-lg: 20px;
+    --font-size-xxl: 48px;
+}
+
+body {
+    background-color: var(--soft-white);
+}
+
+.newsletter-main {
+    padding: 5rem 1.5rem;
+    min-height: 100vh;
+}
+
+.newsletter-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 47rem;
+    margin: 0 auto;
+}
+
+.newsletter-content {
+    text-align: center;
+}
+
+.newsletter-title {
+    font-size: var(--font-size-xxl);
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+.newsletter-description {
+    color: var(--slate-gray);
+    font-size: var(--font-size-lg);
+}
+
+.newsletter-form {
+    width: 95%;
+    max-width: 34.5rem;
+    margin-top: 3.75rem;
+    padding: 1.5rem;
+    background-color: var(--pure-white);
+    border-radius: 0.75rem;
+    box-shadow: 0 6px 14px 4px var(--light-gray);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.newsletter-label {
+    width: 100%;
+}
+
+.newsletter-input {
+    display: block;
+    width: inherit;
+    padding: 1.25rem;
+    border: none;
+    border: 2px solid var(--light-gray);
+    background-color: var(--soft-white);
+    border-radius: 0.75rem;
+}
+
+.newsletter-input::placeholder {
+    font-size: var(--font-size-md);
+    font-weight: 600;
+    text-align: center;
+    color: var(--slate-gray);
+}
+
+.newsletter-button {
+    width: 100%;
+    border: none;
+    background-color: var(--royal-blue);
+    color: var(--pure-white);
+    padding: 1.25rem;
+    border-radius: 0.75rem;
+    font-size: var(--font-size-md);
+    font-weight: 600;
+    appearance: none;
+}
+
+.newsletter-confidentiality {
+    font-size: var(--font-size-sm);
+    color: var(--slate-gray);
+}

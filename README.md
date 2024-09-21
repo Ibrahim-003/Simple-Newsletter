@@ -6,7 +6,7 @@ Este proyecto es una página web sencilla diseñada para permitir a los usuarios
 
 ![Captura del Proyecto](./images/screenshot.png)
 
-Puedes ver la versión demo en vivo aquí: [Join Our Newsletter](#)
+Puedes ver la versión demo en vivo aquí: [Join Our Newsletter](#https://ibrahim-003.github.io/Simple-Newsletter/)
 
 ## Características
 
@@ -30,7 +30,7 @@ Puedes ver la versión demo en vivo aquí: [Join Our Newsletter](#)
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tuusuario/Join-Our-Newsletter.git
+   git clone https://github.com/Ibrahim-003/Simple-Newsletter.git
    ```
 2. Asegúrate de que tienes conexión a Internet para cargar las fuentes de Google Fonts y los estilos CSS.
 3. Abre `index.html` en tu navegador para ver la página.

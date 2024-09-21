@@ -6,7 +6,7 @@ Este proyecto es una página web sencilla diseñada para permitir a los usuarios
 
 ![Captura del Proyecto](./images/screenshot.png)
 
-Puedes ver la versión demo en vivo aquí: [Join Our Newsletter](#https://ibrahim-003.github.io/Simple-Newsletter/)
+Puedes ver la versión demo en vivo aquí: [Join Our Newsletter](https://ibrahim-003.github.io/Simple-Newsletter/)
 
 ## Características
 
